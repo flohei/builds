@@ -16,6 +16,8 @@ The installation requires you to perform three easy steps:
 
 That's it. Whenever someone on your team hits build now the project should update the build number to the lastest + 1.
 
+When you're offline it sets an empty string for your build number. Room for improvement!
+
 
 ## Contact
 
