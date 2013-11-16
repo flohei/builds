@@ -1,0 +1,6 @@
+{
+	"builds": [
+		{ "app":"com.yourcompany.awesomeapp" , "build":207 }, 
+		{ "app":"com.yourcompany.amazingapp" , "build":948 }
+	]
+}
